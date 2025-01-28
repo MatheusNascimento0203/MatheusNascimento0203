@@ -1,6 +1,6 @@
 # 🧑‍💻 Matheus Nascimento | Analista de Negócios
 
-Olá! 👋 Seja bem-vindo(a) ao meu perfil do GitHub! Sou Emanuel Bacalhau, um desenvolvedor com uma paixão imensa por tecnologia, programação e inovação. Meu objetivo é criar soluções criativas e eficientes que façam a diferença. Aqui você encontrará projetos que refletem minha jornada no universo da tecnologia e minha busca constante por aprendizado e aperfeiçoamento. 🚀👨‍💻
+Olá! 👋 Seja bem-vindo(a) ao meu perfil do GitHub! Sou Matheus Nascimento, um analista de negócios apaixonado por tecnologia, inovação e desenvolvimento de soluções estratégicas. Meu objetivo é aliar a análise de negócios com a tecnologia para entregar projetos que gerem impacto e resultados reais. Aqui você encontrará iniciativas que refletem minha jornada de aprendizado, incluindo o desenvolvimento de habilidades em programação e minha busca constante por aperfeiçoamento profissional.🚀👨‍💻
 
 ---
 
@@ -33,7 +33,6 @@ Olá! 👋 Seja bem-vindo(a) ao meu perfil do GitHub! Sou Emanuel Bacalhau, um d
 ## 📈 Minhas Estatísticas no GitHub:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatheusNascimento0203&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Matheus Nascimento" height="180em">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusNascimento0203&theme=radical&hide_border=false" alt="Contribuições consecutivas" height="180em">
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNascimento0203&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens mais usadas" height="180em">
